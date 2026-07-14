@@ -142,7 +142,7 @@ class DatabaseSeeder extends Seeder
             'mau_sac' => 'Trắng',
             'gia_thue_ngay' => 120000,
             'tinh_trang_xe' => 'SanSang',
-            'hinh_anh' => 'honda_vision_2023.jpg',
+            'hinh_anh' => 'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=600&q=80',
             'ma_danh_muc' => $dmXeGa->ma_danh_muc,
         ]);
 
@@ -152,7 +152,7 @@ class DatabaseSeeder extends Seeder
             'mau_sac' => 'Đen Nhám',
             'gia_thue_ngay' => 150000,
             'tinh_trang_xe' => 'DangChoThue',
-            'hinh_anh' => 'honda_airblade_150.jpg',
+            'hinh_anh' => 'https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=600&q=80',
             'ma_danh_muc' => $dmXeGa->ma_danh_muc,
         ]);
 
@@ -162,7 +162,7 @@ class DatabaseSeeder extends Seeder
             'mau_sac' => 'Xanh GP',
             'gia_thue_ngay' => 180000,
             'tinh_trang_xe' => 'SanSang',
-            'hinh_anh' => 'yamaha_exciter_155.jpg',
+            'hinh_anh' => 'https://images.unsplash.com/photo-1609630875171-b1321377ee65?auto=format&fit=crop&w=600&q=80',
             'ma_danh_muc' => $dmXeCon->ma_danh_muc,
         ]);
 
@@ -172,7 +172,7 @@ class DatabaseSeeder extends Seeder
             'mau_sac' => 'Đỏ',
             'gia_thue_ngay' => 80000,
             'tinh_trang_xe' => 'BaoTri',
-            'hinh_anh' => 'honda_wave_alpha.jpg',
+            'hinh_anh' => 'https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=600&q=80',
             'ma_danh_muc' => $dmXeSo->ma_danh_muc,
         ]);
 
